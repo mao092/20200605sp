@@ -1,4 +1,4 @@
-# 20200605sp
+# MySQL权限
 MYsql
 mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost'
 
